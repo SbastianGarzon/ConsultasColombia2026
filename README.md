@@ -12,7 +12,7 @@ Este repositorio contiene un archivo CSV con los resultados de las tres consulta
 
 ### Explicación 
 
-- **mpio_cdpmp:** Código del Municipio de acuerdo al DANE (Esta es una addición que incluí para poder conectar la base de datos con otros datos. Los únicos lugares que no tiene código corresponde a los puesto en CONSULADOS.
+- **mpio_cdpmp:** Código del Municipio de acuerdo al DANE (Esta es una addición que incluí para poder conectar la base de datos de la registraduría con recursos externos). Los únicos lugares que no tienen este código corresponden a los puesto en CONSULADOS.
 - **dep_amdc:** Códio Departamental de acuerdo a la Registraduía
 - **dep_nombre:** Código Departamental de acuerdo a la Registraduía
 - **mun_amb:** Código Municipal de acuerdo a la Registraduría

@@ -55,6 +55,8 @@ Las siguientes columnas incluyen el número de votos por cada candidato de las 3
 
 Utilizando Shiny (R) y el shapefile del [DANE (Versión MGN2025-Nivel Municipio)](https://geoportal.dane.gov.co/servicios/descarga-y-metadatos/datos-geoestadisticos/) es posible crear dashboards los datos de la Registraduría y bases de datos del DANE. Por ahora, para un proyecto personal, solo se realizó la visualización conectando los datos con los poligonos municipales.
 
+![](Ejemplo_uso_datos.jpg)
+
 # Licencia
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Dataset" property="dct:title" rel="dct:type">Resultados Consultas Presidenciales Colombia 2026</span> por <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/SbastianGarzon" property="cc:attributionName" rel="cc:attributionURL">Sebastian Garzón</a> se distribuye bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Licencia Creative Commons Atribución-NoComercial 4.0 Internacional</a>.<br />Basada en una obra en <a xmlns:dct="http://purl.org/dc/terms/" href="https://resultados.registraduria.gov.co/" rel="dct:source">https://resultados.registraduria.gov.co</a>.
